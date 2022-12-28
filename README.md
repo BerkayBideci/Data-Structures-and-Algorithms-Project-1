@@ -27,7 +27,7 @@ Sonuç: [2,16,**18**,**22**,27,6]
 4. İşlem hali hazırda sıralanmış pozisyonun(sorted) bir sonraki pozisyonuna(unsorted) kayarak devam eder ve insertion sort tamamlanır.  
 Sonuç: [2,**6**,**16**,18,22,27]
 
-- Big-O Notation = O($n^2$)
+- Big-O Notation = O(n^2)
 - Dizi sıralandıktan sonra 18 sayısı dizinin ortalarında bulunması sebebiyle **Time Complexity** açısından **Average Case** olarak kabul edilir.
 
 ---

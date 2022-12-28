@@ -1,4 +1,4 @@
-# Veri Yapıları ve Algoritmalar | Selection Sort Projesi
+# Veri Yapıları ve Algoritmalar | Insertion Sort & Selection Sort Projesi
 - [www.patika.dev](www.patika.dev) eğitimleri kapsamında tasarlanmıştır.
 
 ---
